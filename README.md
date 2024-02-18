@@ -4,6 +4,10 @@
 
 Welcome to Software Gaming House! This project is a dynamic website designed for gaming. Built with a strong focus on user experience, the website is not only responsive but also  Pixel Perfect Design using HTML, CSS, and Bootstrap.
 
+## Live Demo
+
+[Simple Presentation for the project](https://www.linkedin.com/posts/abdelrahman-essa-a4477b189_webdevelopment-frontend-html-activity-7164911975242555392-dmrR?utm_source=share&utm_medium=member_desktop)
+
 
 ## Live Demo
 
