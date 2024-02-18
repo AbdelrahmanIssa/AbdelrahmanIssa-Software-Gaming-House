@@ -10,7 +10,7 @@ Welcome to Software Gaming House! This project is a dynamic website designed for
 
 
 ## Live Demo
-[Software Gaming House](https://app.netlify.com/sites/snazzy-mandazi-38dc42/overview](https://65d11cbe8057b9c32b8de5c6--candid-florentine-4fada5.netlify.app/)
+[Software Gaming House Live Demo]([https://65d11cbe8057b9c32b8de5c6--candid-florentine-4fada5.netlify.app/](https://65d11cbe8057b9c32b8de5c6--candid-florentine-4fada5.netlify.app/))
 
 ## Features
 
